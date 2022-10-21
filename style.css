@@ -1,12 +1,19 @@
 h1{
-    color: blueviolet;
+    color: rgb(47, 0, 90);
     font-size: 90px;
     text-align: center;
 }
+body{
+    margin: 3px;
+    background: linear-gradient(rgb(240, 223, 240), rgb(215, 172, 255) 
+);
+}
+
 
 h3{
-    color: rgb(255, 0, 0);
     font-size: 40px;
     text-align: center;
+    color: rgb(114, 0, 108);
+
 }
 
